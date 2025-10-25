@@ -53,95 +53,84 @@
             const professorData = {
                 "professors": [
                     {
-                        "name": "Dr. Pratyay Kuila",
-                        "designation": "Associate Professor, Head of Department, Dean R&C",
-                        "email": "pratyay.kuila@nitsikkim.ac.in",
-                        "phone": "+91-7479013224",
-                        "research_interest": "Evolutionary Algorithms, AI and Machine Learning, Quantum-Inspired Algorithm, Mobile Fog and Edge Computing, Wireless Sensor Networks",
-                        "image": "./img/pratyay_kuila@nitsikkim.ac.in.jpg",
-                        "profile_link": "https://cse.nitsikkim.ac.in/profile.php?sn=67"
+                        "name": "Dr. Hemant Kumar Kathania",
+                        "designation": "Assistant Professor Head of Department",
+                        "email": "hemant.ece@nitsikkim.ac.in",
+                        "phone": "+91 9732900589",
+                        "research_interest": "Speech and Signal Processing",
+                        "image": "./img/hemant.ece@nitsikkim.ac.in.jpg",
+                        "profile_link": "https://ece.nitsikkim.ac.in/profile.php?sn=41"
                     },
                     {
-                        "name": "Dr. Sangram Roy",
+                        "name": "Dr. Sanjay Kumar Jana",
                         "designation": "Associate Professor",
-                        "email": "sray.cse@nitsikkim.ac.in",
-                        "phone": "+91-9630257654",
-                        "research_interest": "Public Key Infrastructure (PKI), Elliptic Curve Cryptography (ECC), Remote server authentication, Secure e/m-applications, Content Centric Network, Internet-of-Things (IoT), Post Quantum Cryptography, Blockchain Technology",
-                        "image": "./img/sray.cse@nitsikkim.ac.in.jpg",
-                        "profile_link": "https://cse.nitsikkim.ac.in/profile.php?sn=829"
+                        "email": "skjnit@nitsikkim.ac.in",
+                        "phone": "+91 9476102775",
+                        "research_interest": "Growth, characterization and Fabribication of III-V based high electron mobility transistor (HEMT) and LED on Si substrate. , Main research interest in Growth by MBE and MOCVD and characterization by HRXRD, ECV, Hall and PL.",
+                        "image": "./img/skjnit@nitsikkim.ac.in.jpg",
+                        "profile_link": "https://ece.nitsikkim.ac.in/profile.php?sn=4"
                     },
                     {
-                        "name": "Dr. Md. Sarfaraj Alem Ansari",
+                        "name": "Dr. Reshmi Dhara",
                         "designation": "Assistant Professor",
-                        "email": "sarfaraj@nitsikkim.ac.in",
-                        "phone": "+91-9332432995",
-                        "research_interest": "Peer-to-Peer Networks, Blockchain Technology, Network Security, Software Defined Networks, Internet of Things, Cloud Computing and Machine Learning",
-                        "image": "./img/sarfaraj@nitsikkim.ac.in.jpg",
-                        "profile_link": "https://cse.nitsikkim.ac.in/profile_sn1.php?sn=1"
+                        "email": "reshmidhara@nitsikkim.ac.in",
+                        "phone": "+91 7479013225",
+                        "research_interest": "Electronics Device and Circuit, Communication, Antenna.",
+                        "image": "./img/reshmidhara@nitsikkim.ac.in.jpg",
+                        "profile_link": "https://ece.nitsikkim.ac.in/profile.php?sn=22"
                     },
                     {
-                        "name": "Dr. Pankaj Kumar Keserwani",
+                        "name": "Dr. Jeetendra Singh",
                         "designation": "Assistant Professor",
-                        "email": "pankajkeserwani.cse@nitsikkim.ac.in",
-                        "phone": "+91-9867067779",
-                        "research_interest": "Application of Optimization and Machine/Deep Learning",
-                        "image": "./img/pankajkeserwani.cse@nitsikkim.ac.in.jpg",
-                        "profile_link": "https://cse.nitsikkim.ac.in/profile.php?sn=43"
+                        "email": "jeetendra@nitsikkim.ac.in",
+                        "phone": "+91 8729098787",
+                        "research_interest": "Modeling and Simulation of Novel Semiconductor Devices, Digital Systems/Embedded/SOC Design and FPGA Implementation, Mixed Signal (Analog/Digital) VLSI Design, MOS based Biosensor Design.",
+                        "image": "./img/jeetendra@nitsikkim.ac.in.jpg",
+                        "profile_link": "https://ece.nitsikkim.ac.in/profile.php?sn=793"
                     },
                     {
-                        "name": "Dr. Krishna Kumar",
+                        "name": "Dr. Vishal Vishnoi",
                         "designation": "Assistant Professor",
-                        "email": "krishnakumar@nitsikkim.ac.in",
-                        "phone": "+91-8095253170",
-                        "research_interest": "Time-Series Sequential Data Analysis, Brain and Nature Inspired Computing, AI and Machine Learning, Knowledge-Based System",
-                        "image": "./img/krishnakumar@nitsikkim.ac.in.jpg",
-                        "profile_link": "https://cse.nitsikkim.ac.in/profile.php?sn=827"
+                        "email": "vishal.vishnoi@nitsikkim.ac.in",
+                        "phone": "+91 9855273397",
+                        "research_interest": "Process Control and Modelling, Control System, Soft Computing",
+                        "image": "./img/vishal.vishnoi@nitsikkim.ac.in.jpg",
+                        "profile_link": "https://ece.nitsikkim.ac.in/profile.php?sn=845"
                     },
                     {
-                        "name": "Dr. Bam Bahadur Sinha",
+                        "name": "Dr. Varun Gupta",
                         "designation": "Assistant Professor",
-                        "email": "bambahadursinha@nitsikkim.ac.in",
-                        "phone": "+91-9199610251",
-                        "research_interest": "Artificial Intelligence & Machine Learning, Deep Learning, Optimization Techniques, Recommender Systems",
-                        "image": "./img/bambahadursinha@nitsikkim.ac.in.jpg",
-                        "profile_link": "https://cse.nitsikkim.ac.in/profile.php?sn=850"
+                        "email": "varungupta@nitsikkim.ac.in",
+                        "phone": "+91 9045440911",
+                        "research_interest": "Biomedical Signal Processing (BSP), Pattern Recognition, Digital Signal Processing (DSP), Control System, Analog and Digital Circuits, Network Analysis & Synthesis (NAS), Electromagnetic Field Theory (EMFT), and Soft Computing",
+                        "image": "./img/varungupta@nitsikkim.ac.in.jpg",
+                        "profile_link": "https://ece.nitsikkim.ac.in/profile.php?sn=855"
                     },
                     {
-                        "name": "Mr. Arunanshu Pal",
+                        "name": "Dr. Sudipta Das",
                         "designation": "Temporary Faculty",
-                        "email": "arunanshupal@nitsikkim.ac.in",
-                        "phone": "+91-9432149897",
-                        "research_interest": "Mobile Ad hoc Networks, Intelligent Transportation Systems, Computer Networks, Data Structures and Algorithms, Object-Oriented Programming, Logic in Computer Science",
-                        "image": "./img/arunangshupal@nitsikkim.ac.in.jpg",
-                        "profile_link": "https://cse.nitsikkim.ac.in/profile.php?sn=828"
+                        "email": "sudipta@nitsikkim.ac.in",
+                        "phone": "+91 9903252279",
+                        "research_interest": "Antennas and Antenna Arrays, Evolutionary Algorithms, Multiobjective Optimization",
+                        "image": "./img/sudipta@nitsikkim.ac.in.jpg",
+                        "profile_link": "https://ece.nitsikkim.ac.in/profile.php?sn=795"
                     },
-                    {
-                        "name": "Dr. Diksha Rangewani",
-                        "designation": "Temporary Faculty",
-                        "email": "diksharangewani@nitsikkim.ac.in",
-                        "phone": "+91-7737296628",
-                        "research_interest": "Energy-Efficient Authentication Protocols, Machine Learning-based Authentication Protocols, Network Security",
-                        "image": "./img/diksharangwani@nitsikkim.ac.in.jpg",
-                        "profile_link": "https://cse.nitsikkim.ac.in/profile.php?sn=849"
-                    },
-                    {
-                        "name": "Ms. Minakshi Boruah",
-                        "designation": "Temporary Faculty",
-                        "email": "minakshi.boruah@nitsikkim.ac.in",
-                        "phone": "",
-                        "research_interest": "Artificial Intelligence, Machine Learning, Deep Learning, Computational Biology",
-                        "image": "./img/minakshi.boruah@nitsikkim.ac.in.jpg",
-                        "profile_link": "https://cse.nitsikkim.ac.in/profile.php?sn=856"
-                    }
                 ],
                 "staff": [
                     {
-                        "name": "Mr. Tapan Chhetri",
-                        "designation": "Senior Technician",
-                        "email": "tapanchettri@nitsikkim.ac.in",
-                        "phone": "+91 9775963115",
+                        "name": "Mr. Amit Tamang",
+                        "designation": "Senior Technical Assistant",
+                        "email": "amit.tamang@nitsikkim.ac.in",
+                        "phone": "+91 7479013245",
                         "image": "./img/tapanchettri@nitsikkim.ac.in.jpg",
-                    }
+                    },
+                    {
+                        "name": "Mr. Sidharth Pradhan",
+                        "designation": "Senior Technician",
+                        "email": "sid26@nitsikkim.ac.in",
+                        "phone": "+91 7479013246",
+                        "image": "./img/tapanchettri@nitsikkim.ac.in.jpg",
+                    },
                 ]
             };
 
